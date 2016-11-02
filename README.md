@@ -1984,15 +1984,8 @@ and produce a more robust feature.
 
 * What do we know about the code?  In the case of `doubler()` we know from the code that it takes an integer as an input and returns an integer equal to two times the input. Great.. so what? In this simple example, not much can go wrong, but we should test to document what the use case was.  
 
-	```
-	python -i
-	
-	from doubler import doubler
-	
-	print doubler(2)
-	print doubler('2')
-	
-	```
+![](images/tty.gif)
+
 
 * Did you get what you expected?  Why not?   
 * As we've written these functions, we've made some assumptions about how they will be used, and by whom.  We also should document those assumptions in the form of a test case(s).. We know we want to test a couple things.
