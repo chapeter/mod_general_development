@@ -296,7 +296,8 @@ The Guiding principals of DevOps include:
 ![](images/pheonix-project.jpg)
 
 > “[DevOps is] a set of cultural norms and technical practices that enable this fast flow of work from dev through test through operations while preserving world class reliability” 
-> ~ Gene Kim - author of “The Phoenix Project”
+> ~ Gene Kim - author of “The Phoenix Project”
+
 [item]: # (/slide)
 
 DevOps is often talked about in the nature of the tools and techniques that are implemented as part of a pipeline, but DevOps is much more about the culture of an organization than about whether they are leveraging Jenkins.  
@@ -1714,6 +1715,11 @@ One of the nicest things about Vagrant, is the ability to embed the development 
 ![](images/zen-python.jpg)
 
 [item]: # (/slide)
+
+## Installing Python
+### OS X
+The default installation of Python that comes with OS X may be finicky.  Its bet to reinstall Python.  Homebrew makes this easy:
+*[http://docs.python-guide.org/en/latest/starting/install/osx/](http://docs.python-guide.org/en/latest/starting/install/osx/)
 
 [item]: # (slide)
 
