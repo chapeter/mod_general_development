@@ -1719,6 +1719,7 @@ One of the nicest things about Vagrant, is the ability to embed the development 
 ## Installing Python
 ### OS X
 The default installation of Python that comes with OS X may be finicky.  Its bet to reinstall Python.  Homebrew makes this easy:
+
 *[http://docs.python-guide.org/en/latest/starting/install/osx/](http://docs.python-guide.org/en/latest/starting/install/osx/)
 
 [item]: # (slide)
