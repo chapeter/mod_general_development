@@ -1718,7 +1718,7 @@ One of the nicest things about Vagrant, is the ability to embed the development 
 
 ## Installing Python
 ### OS X
-The default installation of Python that comes with OS X may be finicky.  Its bet to reinstall Python.  Homebrew makes this easy:
+The default installation of Python that comes with OS X may be finicky.  Its best to reinstall Python.  Homebrew makes this easy:
 
 *[http://docs.python-guide.org/en/latest/starting/install/osx/](http://docs.python-guide.org/en/latest/starting/install/osx/)
 
@@ -1770,6 +1770,7 @@ A secondary benefit, but very important as well, is the ability to limit the mod
 	* One method... Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
 	
 		```
+		curl -O https://bootstrap.pypa.io/get-pip.py
 		python get-pip.py
 		```
 		
